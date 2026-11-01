@@ -1,19 +1,47 @@
-# 🤖 Artificial Intelligence Laboratory
+============================================================
+              ARTIFICIAL INTELLIGENCE LABORATORY
+============================================================
 
-## 👥 Group Introduction
+GROUP INTRODUCTION
+------------------
+Welcome to our Artificial Intelligence (AI) Laboratory Project Repository!
 
-Welcome to our **Artificial Intelligence (AI) Laboratory Project Repository!**
+We are a team of five students working collaboratively to explore and
+implement fundamental concepts of Artificial Intelligence through
+practical experiments and programming.
 
-We are a team of five students working collaboratively to explore and implement fundamental concepts of Artificial Intelligence through practical experiments and programming.
+Our goal is to develop a strong understanding of AI algorithms, search
+strategies, machine learning techniques, neural networks, and intelligent
+problem-solving methods. Through these laboratory experiments, we aim to
+strengthen our programming skills, logical reasoning, and ability to
+solve real-world computational problems.
 
-Our goal is to develop a strong understanding of AI algorithms, search strategies, machine learning techniques, neural networks, and intelligent problem-solving methods. Through these laboratory experiments, we aim to strengthen our programming skills, logical reasoning, and ability to solve real-world computational problems.
+This repository contains our implementations and documentation for seven
+AI laboratory experiments. Each lab includes its source code, algorithm
+descriptions, and relevant output screenshots to demonstrate our
+practical learning and understanding.
 
-This repository contains our implementations and documentation for seven AI laboratory experiments. Each lab includes its source code, algorithm descriptions, and relevant output screenshots to demonstrate our practical learning and understanding.
+We believe in teamwork, continuous learning, and collaborative
+problem-solving. This project represents our combined efforts to gain
+practical experience in Artificial Intelligence.
 
-We believe in teamwork, continuous learning, and collaborative problem-solving. This project represents our combined efforts to gain practical experience in Artificial Intelligence.
 
-## 🎯 Our Objectives
+GROUP DETAILS
+-------------
+Group Name: AI Innovators
+Project: Artificial Intelligence Laboratory
+Group Size: 5 Members
 
+Group Members:
+  1. Tej Pratap Singh     - 2024BITE078
+  2. Gopi Kishan Sahu     - 2024BITE034
+  3. Prateek Kumar Singh  - 2024BITE010
+  4. Bandi Kumar          - 2024BITE042
+  5. Mohit Moriya         - 2024BITE024
+
+
+OUR OBJECTIVES
+--------------
 - Understand the fundamental concepts and principles of Artificial Intelligence.
 - Implement AI algorithms using C and C++.
 - Explore graph traversal, informed search, and local search techniques.
@@ -22,41 +50,29 @@ We believe in teamwork, continuous learning, and collaborative problem-solving. 
 - Explore rule-based reasoning using forward and backward chaining.
 - Maintain clean, organized, and well-documented code.
 
-## 👨‍💻 Group Details
 
-**Group Name:** AI Innovators
+ABOUT THIS REPOSITORY
+---------------------
+This repository is organized into seven laboratory folders, each dedicated
+to a specific set of Artificial Intelligence experiments:
 
-**Project:** Artificial Intelligence Laboratory
+  Lab 1: Graph Traversal (BFS, DFS) and Linear Regression
+  Lab 2: Informed Search and Local Search Algorithms
+  Lab 3: Logistic Regression Using Gradient Descent
+  Lab 4: AI Problem Solving Using Search Algorithms
+  Lab 5: Minimax Algorithm for Game Playing
+  Lab 6: Single-Layer Neural Network (Perceptron)
+  Lab 7: Forward Chaining and Backward Chaining
 
-**Group Size:** 5 Members
+Each lab folder contains the relevant source code, README documentation,
+and program output screenshots.
 
-### 📋 Group Members
 
-| S. No. | Name | Enrollment Number |
-|---:|---|---|
-| 1 | Tej Pratap Singh | 2024BITE078 |
-| 2 | Gopi Kishan Sahu | 2024BITE034 |
-| 3 | Prateek Kumar Singh | 2024BITE010 |
-| 4 | Bandi Kumar | 2024BITE042 |
-| 5 | Mohit Moriya | 2024BITE024 |
+OUR MISSION
+-----------
+Our mission is to apply theoretical knowledge to practical AI problems,
+improve our programming and analytical abilities, and build a solid
+foundation for further learning in Artificial Intelligence and Machine
+Learning.
 
-## 📚 About This Repository
-
-This repository is organized into seven laboratory folders, each dedicated to a specific set of Artificial Intelligence experiments.
-
-The experiments cover:
-- **Lab 1:** Graph Traversal and Linear Regression
-- **Lab 2:** Informed Search and Local Search Algorithms
-- **Lab 3:** Logistic Regression Using Gradient Descent
-- **Lab 4:** AI Problem Solving Using Search Algorithms
-- **Lab 5:** Minimax Algorithm for Game Playing
-- **Lab 6:** Single-Layer Neural Network
-- **Lab 7:** Forward Chaining and Backward Chaining
-
-Each lab folder contains the relevant source code and README documentation, along with output screenshots where applicable.
-
-## 🌟 Our Mission
-
-Our mission is to apply theoretical knowledge to practical AI problems, improve our programming and analytical abilities, and build a solid foundation for further learning in Artificial Intelligence and Machine Learning.
-
-**Thank you for visiting our repository!**
+Thank you for visiting our repository!
