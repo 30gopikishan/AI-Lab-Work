@@ -59,3 +59,4 @@ This repository contains our implementations and documentation for seven AI labo
 ## Mission
 
 Our mission is to apply theoretical knowledge to practical AI problems, improve our programming and analytical abilities, and build a solid foundation for further learning in Artificial Intelligence and Machine Learning.
+
